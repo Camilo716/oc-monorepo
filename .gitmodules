@@ -1,3 +1,6 @@
 [submodule "modules/sale_opportunity_management"]
 	path = modules/sale_opportunity_management
 	url = https://gitea.onecluster.org/OneTeam/trytondo-sale_opportunity_management
+[submodule "modules/optical_equipment"]
+	path = modules/optical_equipment
+	url = https://gitea.onecluster.org/OneTeam/trytondo-optical_equipment
