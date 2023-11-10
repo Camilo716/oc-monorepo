@@ -4,3 +4,7 @@
 [submodule "modules/optical_equipment"]
 	path = modules/optical_equipment
 	url = https://gitea.onecluster.org/OneTeam/trytondo-optical_equipment
+[submodule "modules/bascule_coffee"]
+	path = modules/bascule_coffee
+	url = https://gitea.onecluster.org/OneTeam/trytondo-bascule_coffee
+	branch = 6.8
